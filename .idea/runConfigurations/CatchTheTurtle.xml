@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="CatchTheTurtle" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-    <module name="TurtleProject_1" />
+    <module name="TurtleProject_CatchtheCan" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
     <envs>
